@@ -28,13 +28,17 @@ I'm an aspiring **Data Analyst and Data Scientist** passionate about turning dat
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://gichezz-github-stats.vercel.app/api?username=Gichezz&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://gichezz-github-stats.vercel.app/api/top-langs/?username=Gichezz&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+## GitHub Stats
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gichezz&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+<p align="center">
+  <img src="https://github-stats-extended3.vercel.app/api?username=JUST-ZARI&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-stats-extended3.vercel.app/api/top-langs/?username=JUST-ZARI&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JUST-ZARI&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
+</p>
 </p>
 </p>
 
