@@ -28,18 +28,10 @@ I'm an aspiring **Data Analyst and Data Scientist** passionate about turning dat
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <p align="center">
   <img src="https://github-stats-extended3.vercel.app/api?username=JUST-ZARI&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-stats-extended3.vercel.app/api/top-langs/?username=JUST-ZARI&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
-</p>
-
-## GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JUST-ZARI&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
